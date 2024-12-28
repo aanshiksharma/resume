@@ -77,9 +77,10 @@ section {
   font-size: 10px;
 }
 
-.float-right {
-  float: right;
+.serif {
+  font-family: "Times New Roman", serif;
 }
+
 /* Styling Utilities */
 
 .flex {
